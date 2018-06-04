@@ -37,10 +37,7 @@ import soot.options.SparkOptions;
 import sootapdg.PDG.CFG_Reconstructor;
 import sootapdg.PDG.PDG;
 import sootapdg.PDG.Preprocessor;
-
-/**
- * @author Srihari Sukumaran
- */
+ 
 /**
  * @author arvind
  *

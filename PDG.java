@@ -48,8 +48,7 @@ import sootapdg.DummyFormalOutAssignStmt;
 import soot.Scene;
 
 /**
- * @author Srihari Sukumaran
- */
+  */
 
 public class PDG {
 

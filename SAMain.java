@@ -39,8 +39,7 @@ import sootapdg.PDG.PDG;
 import sootapdg.PDG.Preprocessor;
 import sootapdg.PDG.Util; 
 /**
- * @author Srihari Sukumaran
- */
+  */
 /**
  * @author arvind
  *
